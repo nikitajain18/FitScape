@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FitScape</string>
+    <string name="workout_msg">This button would display the workout plan created in the space below.</string>
+    <string name="gym_msg">This button would display the 3 closest gyms using the Google Maps API."</string>
+    <string name="result1">Your BMI suggests that you are underweight.
+        If so, the main strategy to reaching a healthy body would be weight training and a proper diet.
+        Follow the schedule given below until results begin to show -
+        \nWeight Training:
+        \nStart with 2 kg dumbbells. Gradually increases weight.
+        \nExercises to do:
+        \nDumbbell Bench Press
+        \nAlternated Bicep Curl
+        \nShoulder Press
+        \nTriceps Kickback
+        \nReps - 15
+        \nSets - 2
+    </string>
+    <string name="result2">Your BMI suggests that you have a healthy weight-height ratio. The main strategy would be working on your core strength.
+        Follow the schedule given below until results begin to show -
+        \nSquats
+        \nModified Pushups
+        \nCrunches
+        \nBack Extension
+        \nReps - 15 to 20
+        \nSets - 3
+    </string>
+    <string name="result3">Your BMI indicates that you are overweight. The main strategy would be weight loss.
+        Follow the schedule given below until results begin to show -
+        \nRunning - 30 minutes
+        \nLunges - 15 reps, 3 sets
+        \nBurpees - 10 reps, 3 sets
+        \nMountain Climbers - 10 reps, 3 sets
+        \nBiking - 20 to 30 minutes
+    </string>
+    <string name="result4">Your BMI indicates that you are obese. The main strategy would be to loose weight in a healthy and controlled manner, with exercises suitable to your body. See the link below for more information -
+    </string>
+    <string name="result5">Due to your respiratory conditions, we recommend that you exercise with caution and follow the advice of a professional. Below is a helpful link: </string>
+</resources>
